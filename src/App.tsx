@@ -36,6 +36,12 @@ const UserExample =
   "birthday" : "01-02-30002",
   "age" : 22
   },
+  {
+  "fullName" : "Drake3",
+  "email" : "Drake2@gmail.com",
+  "birthday" : "01-02-30002",
+  "age" : 22
+  },
 
 ]
 
